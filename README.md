@@ -19,4 +19,4 @@ Le programme nécéssite une amélioration et une optimisation ultérieurement !
 ![PremVer](PhotoEvolutionContour/lena256ContourVerFinale.bmp)
 
 ## Auteurs
-Hayk ZARIKIAN
+Hayk ZARIKIAN et Ambre LIS
