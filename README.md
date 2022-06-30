@@ -15,4 +15,4 @@ NB : Le programme nécéssite une amélioration et une optimisation ultérieurem
 #### Figure 4 : Troisième version
 ![PremVer](PhotoEvolutionContour/lena256ContourVer3.bmp)
 #### Figure 5 : Dernière version
-![PremVer](PhotoEvolutionContour/lena256ContourVer4.bmp)
+![PremVer](PhotoEvolutionContour/lena256ContourVerFinale.bmp)
