@@ -1,9 +1,10 @@
 # MIPS-Traitement_Image
 
+## Description
 Le projet consiste à utiliser le filtre de Sobel pour pouvoir récupérer les 
 contours d'une image .bmp via l'assembleur MIPS à l'aide de MARS4.5.
+Le programme nécéssite une amélioration et une optimisation ultérieurement ! 
 
-NB : Le programme nécéssite une amélioration et une optimisation ultérieurement ! 
 
 ## Evolution 
 #### Figure 1 : Image à filtrée 
@@ -16,3 +17,6 @@ NB : Le programme nécéssite une amélioration et une optimisation ultérieurem
 ![PremVer](PhotoEvolutionContour/lena256ContourVer3.bmp)
 #### Figure 5 : Dernière version
 ![PremVer](PhotoEvolutionContour/lena256ContourVerFinale.bmp)
+
+## Auteurs
+Hayk ZARIKIAN
