@@ -9,10 +9,10 @@ NB : Le programme nécéssite une amélioration et une optimisation ultérieurem
 #### Figure 1 : Image à filtrée 
 ![ImgAFiltr](lena256.bmp)
 #### Figure 2 : Première version
-![PremVer]("Photo Evolution Contour"/lena256ContourVer1.bmp)
+![PremVer](PhotoEvolutionContour/lena256ContourVer1.bmp)
 #### Figure 3 : Deuxième version
-![PremVer](Photo Evolution Contour/lena256ContourVer2.bmp)
+![PremVer](PhotoEvolutionContour/lena256ContourVer2.bmp)
 #### Figure 4 : Troisième version
-![PremVer](Photo Evolution Contour/lena256ContourVer3.bmp)
+![PremVer](PhotoEvolutionContour/lena256ContourVer3.bmp)
 #### Figure 5 : Dernière version
-![PremVer](Photo Evolution Contour/lena256ContourVer4.bmp)
+![PremVer](PhotoEvolutionContour/lena256ContourVer4.bmp)
